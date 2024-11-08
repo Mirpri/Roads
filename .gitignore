@@ -1,0 +1,4 @@
+build/
+dist/
+roads_data/
+*.spec
